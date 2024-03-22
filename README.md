@@ -1,7 +1,9 @@
-# PortfolioJoaquinPerezAED2024
+# Algoritmos y estructuras de datos
 
-# Portafolio en el cual se realizarán las reflexiones sobre unidad, trabajos e tarea domiciliaria para seguir el curso.
+### Portafolio -- Joaquin Perez
 
-## UTO
+## Unidades tematicas
 
-## UT1
+1. [UT1 - Transicion a JAVA]()
+
+
