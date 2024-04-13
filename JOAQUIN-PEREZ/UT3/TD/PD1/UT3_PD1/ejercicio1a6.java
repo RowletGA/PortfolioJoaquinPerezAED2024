@@ -72,4 +72,5 @@ a) Inserta correctamente “otroNodo” en la lista, quedando como último nodo.
 b) Inserta correctamente “otroNodo” en la lista, quedando como primer nodo.
 c) El algoritmo está mal hecho, ya que dará error en tiempo de ejecución si la lista está
 vacía.
-d) El algoritmo está mal hecho, ya que dará siempre error en tiempo de ejecución. */
+d) El algoritmo está mal hecho, ya que dará siempre error en tiempo de ejecución.
+C */
